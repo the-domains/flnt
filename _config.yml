@@ -1,0 +1,14 @@
+layout_spectrum: 0.9683626
+color:
+  saturation: 0.3172043
+  brandStrength: 0.66553
+  lightness: 0.7865913
+  rhythmicContrast: 0.5591725
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+typography_spectrum: 0.2754726
+name: FLNT
