@@ -40,10 +40,10 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/150643091'
 title: 2015 Commercial Reel
-datePublished: '2016-05-17T02:55:03.790Z'
-dateModified: '2016-05-17T02:54:55.061Z'
-starred: false
+datePublished: '2016-05-17T02:57:30.634Z'
+dateModified: '2016-05-17T02:55:35.279Z'
 sourcePath: _posts/2016-05-17-2015-commercial-reel.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
